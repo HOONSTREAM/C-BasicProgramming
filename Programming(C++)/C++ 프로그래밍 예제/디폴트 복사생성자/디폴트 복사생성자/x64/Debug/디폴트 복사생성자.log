@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\sora\OneDrive\Desktop\디폴트 복사생성자\디폴트 복사생성자\소스.cpp(30,22): error C2440: '초기화 중': 'Sosimple'에서 'Sosimple'(으)로 변환할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\디폴트 복사생성자\디폴트 복사생성자\소스.cpp(30,22): message : class 'Sosimple'의 생성자가 'explicit'으로 선언되었습니다.

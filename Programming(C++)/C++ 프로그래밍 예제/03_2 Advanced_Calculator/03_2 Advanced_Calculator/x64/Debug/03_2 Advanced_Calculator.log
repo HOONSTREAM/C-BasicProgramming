@@ -1,0 +1,3 @@
+﻿  정의부.cpp
+C:\Users\sora\OneDrive\Desktop\03_2 Advanced_Calculator\03_2 Advanced_Calculator\정의부.cpp(8,10): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.
+C:\Users\sora\OneDrive\Desktop\03_2 Advanced_Calculator\03_2 Advanced_Calculator\정의부.cpp(9,10): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.

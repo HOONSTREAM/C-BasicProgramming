@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "객체에서 기본자료형 형변환 연산자 오버로딩", "객체에서 기본자료형 형변환 연산자 오버로딩\객체에서 기본자료형 형변환 연산자 오버로딩.vcxproj", "{2EF3F7D4-61A0-4FBB-9274-0F888EF737C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF3F7D4-61A0-4FBB-9274-0F888EF737C1}.Debug|x64.ActiveCfg = Debug|x64
+		{2EF3F7D4-61A0-4FBB-9274-0F888EF737C1}.Debug|x64.Build.0 = Debug|x64
+		{2EF3F7D4-61A0-4FBB-9274-0F888EF737C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{2EF3F7D4-61A0-4FBB-9274-0F888EF737C1}.Debug|x86.Build.0 = Debug|Win32
+		{2EF3F7D4-61A0-4FBB-9274-0F888EF737C1}.Release|x64.ActiveCfg = Release|x64
+		{2EF3F7D4-61A0-4FBB-9274-0F888EF737C1}.Release|x64.Build.0 = Release|x64
+		{2EF3F7D4-61A0-4FBB-9274-0F888EF737C1}.Release|x86.ActiveCfg = Release|Win32
+		{2EF3F7D4-61A0-4FBB-9274-0F888EF737C1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D76100A-E0FC-4821-B30C-CDCC83E88BE8}
+	EndGlobalSection
+EndGlobal

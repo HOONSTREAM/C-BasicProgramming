@@ -1,0 +1,17 @@
+﻿  소스.cpp
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(22,43): error C2248: 'point::x': private 멤버('point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(7): message : 'point::x' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(4): message : 'point' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(23,17): error C2248: 'point::y': private 멤버('point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(8): message : 'point::y' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(4): message : 'point' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(24,45): error C2248: 'point::x': private 멤버('point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(7): message : 'point::x' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(4): message : 'point' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(25,19): error C2248: 'point::y': private 멤버('point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(8): message : 'point::y' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(4): message : 'point' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(32,22): error C2440: '초기화 중': 'initializer list'에서 'point'(으)로 변환할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(32,22): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(33,21): error C2440: '초기화 중': 'initializer list'에서 'point'(으)로 변환할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\04_1 정보은닉(1)\04_1 정보은닉(1)\소스.cpp(33,21): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.

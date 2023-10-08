@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "역방향반복자_reverse_iterator", "역방향반복자_reverse_iterator\역방향반복자_reverse_iterator.vcxproj", "{63152B39-DCC4-4DB0-9978-06875B1BA45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63152B39-DCC4-4DB0-9978-06875B1BA45F}.Debug|x64.ActiveCfg = Debug|x64
+		{63152B39-DCC4-4DB0-9978-06875B1BA45F}.Debug|x64.Build.0 = Debug|x64
+		{63152B39-DCC4-4DB0-9978-06875B1BA45F}.Debug|x86.ActiveCfg = Debug|Win32
+		{63152B39-DCC4-4DB0-9978-06875B1BA45F}.Debug|x86.Build.0 = Debug|Win32
+		{63152B39-DCC4-4DB0-9978-06875B1BA45F}.Release|x64.ActiveCfg = Release|x64
+		{63152B39-DCC4-4DB0-9978-06875B1BA45F}.Release|x64.Build.0 = Release|x64
+		{63152B39-DCC4-4DB0-9978-06875B1BA45F}.Release|x86.ActiveCfg = Release|Win32
+		{63152B39-DCC4-4DB0-9978-06875B1BA45F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250C48CC-7734-40B4-9F29-B796DD7B2340}
+	EndGlobalSection
+EndGlobal

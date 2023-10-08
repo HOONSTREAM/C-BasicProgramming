@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "펑터의 위력", "펑터의 위력\펑터의 위력.vcxproj", "{1DE42156-E75F-4B28-96B1-24A4F47A4EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE42156-E75F-4B28-96B1-24A4F47A4EFE}.Debug|x64.ActiveCfg = Debug|x64
+		{1DE42156-E75F-4B28-96B1-24A4F47A4EFE}.Debug|x64.Build.0 = Debug|x64
+		{1DE42156-E75F-4B28-96B1-24A4F47A4EFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DE42156-E75F-4B28-96B1-24A4F47A4EFE}.Debug|x86.Build.0 = Debug|Win32
+		{1DE42156-E75F-4B28-96B1-24A4F47A4EFE}.Release|x64.ActiveCfg = Release|x64
+		{1DE42156-E75F-4B28-96B1-24A4F47A4EFE}.Release|x64.Build.0 = Release|x64
+		{1DE42156-E75F-4B28-96B1-24A4F47A4EFE}.Release|x86.ActiveCfg = Release|Win32
+		{1DE42156-E75F-4B28-96B1-24A4F47A4EFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {478DD69B-92F3-4DE7-B22B-E294B16C779B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\hun\Desktop\new 예외\new 예외\소스.cpp(15,13): warning C4101: 'expn' :참조되지 않은 지역 변수입니다.
+C:\Users\hun\Desktop\new 예외\new 예외\소스.cpp(32,13): warning C4101: 'expn' :참조되지 않은 지역 변수입니다.
+  new 예외.vcxproj -> C:\Users\hun\Desktop\new 예외\x64\Debug\new 예외.exe

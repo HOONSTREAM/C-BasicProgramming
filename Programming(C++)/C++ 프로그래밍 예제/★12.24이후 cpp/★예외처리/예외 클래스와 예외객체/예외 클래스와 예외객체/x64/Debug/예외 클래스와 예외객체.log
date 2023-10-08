@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\hun\Desktop\예외 클래스와 예외객체\예외 클래스와 예외객체\소스.cpp(52,49): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\hun\Desktop\예외 클래스와 예외객체\예외 클래스와 예외객체\소스.cpp(62,50): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  예외 클래스와 예외객체.vcxproj -> C:\Users\hun\Desktop\예외 클래스와 예외객체\x64\Debug\예외 클래스와 예외객체.exe

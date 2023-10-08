@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "set의 정렬기준을 사용한 값 비교", "set의 정렬기준을 사용한 값 비교\set의 정렬기준을 사용한 값 비교.vcxproj", "{D43C5350-E589-4C49-9AC8-CACA372AA853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43C5350-E589-4C49-9AC8-CACA372AA853}.Debug|x64.ActiveCfg = Debug|x64
+		{D43C5350-E589-4C49-9AC8-CACA372AA853}.Debug|x64.Build.0 = Debug|x64
+		{D43C5350-E589-4C49-9AC8-CACA372AA853}.Debug|x86.ActiveCfg = Debug|Win32
+		{D43C5350-E589-4C49-9AC8-CACA372AA853}.Debug|x86.Build.0 = Debug|Win32
+		{D43C5350-E589-4C49-9AC8-CACA372AA853}.Release|x64.ActiveCfg = Release|x64
+		{D43C5350-E589-4C49-9AC8-CACA372AA853}.Release|x64.Build.0 = Release|x64
+		{D43C5350-E589-4C49-9AC8-CACA372AA853}.Release|x86.ActiveCfg = Release|Win32
+		{D43C5350-E589-4C49-9AC8-CACA372AA853}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8096AC7E-E19F-48B1-B499-7BB0122943F6}
+	EndGlobalSection
+EndGlobal

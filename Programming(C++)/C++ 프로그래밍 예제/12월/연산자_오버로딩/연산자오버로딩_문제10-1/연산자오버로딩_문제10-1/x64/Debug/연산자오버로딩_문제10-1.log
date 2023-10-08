@@ -1,0 +1,13 @@
+﻿  소스.cpp
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(57,16): error C2248: 'Point::xpos': private 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(7): message : 'Point::xpos' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(4): message : 'Point' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(57,28): error C2248: 'Point::xpos': private 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(7): message : 'Point::xpos' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(4): message : 'Point' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(57,39): error C2248: 'Point::ypos': private 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(7): message : 'Point::ypos' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(4): message : 'Point' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(57,51): error C2248: 'Point::ypos': private 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(7): message : 'Point::ypos' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\연산자오버로딩_문제10-1\연산자오버로딩_문제10-1\소스.cpp(4): message : 'Point' 선언을 참조하십시오.

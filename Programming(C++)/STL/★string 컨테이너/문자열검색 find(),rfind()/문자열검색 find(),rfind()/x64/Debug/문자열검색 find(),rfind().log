@@ -1,0 +1,20 @@
+﻿  문자열검색 find(),rfind().cpp
+C:\Users\hun\Desktop\문자열검색 find(),rfind()\문자열검색 find(),rfind()\문자열검색 find(),rfind().cpp(11,33): warning C4305: '인수': 'int'에서 'const _Elem'(으)로 잘립니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\hun\Desktop\문자열검색 find(),rfind()\문자열검색 find(),rfind()\문자열검색 find(),rfind().cpp(11,33): warning C4309: '인수': 상수 값이 잘립니다.
+C:\Users\hun\Desktop\문자열검색 find(),rfind()\문자열검색 find(),rfind()\문자열검색 find(),rfind().cpp(12,37): warning C4305: '인수': 'int'에서 'const _Elem'(으)로 잘립니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\hun\Desktop\문자열검색 find(),rfind()\문자열검색 find(),rfind()\문자열검색 find(),rfind().cpp(12,37): warning C4309: '인수': 상수 값이 잘립니다.
+C:\Users\hun\Desktop\문자열검색 find(),rfind()\문자열검색 find(),rfind()\문자열검색 find(),rfind().cpp(21,16): warning C4305: '인수': 'int'에서 'const _Elem'(으)로 잘립니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\hun\Desktop\문자열검색 find(),rfind()\문자열검색 find(),rfind()\문자열검색 find(),rfind().cpp(21,16): warning C4309: '인수': 상수 값이 잘립니다.
+  문자열검색 find(),rfind().vcxproj -> C:\Users\hun\Desktop\문자열검색 find(),rfind()\x64\Debug\문자열검색 find(),rfind().exe

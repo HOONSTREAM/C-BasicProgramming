@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scanf를 대신하는 데이터의 입력", "scanf를 대신하는 데이터의 입력\scanf를 대신하는 데이터의 입력.vcxproj", "{EC5FC7B2-FD95-4B05-AA53-E39BBF87A814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5FC7B2-FD95-4B05-AA53-E39BBF87A814}.Debug|x64.ActiveCfg = Debug|x64
+		{EC5FC7B2-FD95-4B05-AA53-E39BBF87A814}.Debug|x64.Build.0 = Debug|x64
+		{EC5FC7B2-FD95-4B05-AA53-E39BBF87A814}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC5FC7B2-FD95-4B05-AA53-E39BBF87A814}.Debug|x86.Build.0 = Debug|Win32
+		{EC5FC7B2-FD95-4B05-AA53-E39BBF87A814}.Release|x64.ActiveCfg = Release|x64
+		{EC5FC7B2-FD95-4B05-AA53-E39BBF87A814}.Release|x64.Build.0 = Release|x64
+		{EC5FC7B2-FD95-4B05-AA53-E39BBF87A814}.Release|x86.ActiveCfg = Release|Win32
+		{EC5FC7B2-FD95-4B05-AA53-E39BBF87A814}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {299E7A11-23B3-4C82-95E2-1D482773F551}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\sora\OneDrive\Desktop\protected 선언\protected 선언\소스.cpp(25,13): error C2248: 'Base::num2': protected 멤버('Base' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\sora\OneDrive\Desktop\protected 선언\protected 선언\소스.cpp(11): message : 'Base::num2' 선언을 참조하십시오.
+C:\Users\sora\OneDrive\Desktop\protected 선언\protected 선언\소스.cpp(6): message : 'Base' 선언을 참조하십시오.
